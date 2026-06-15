@@ -1,0 +1,3 @@
+Contar con servidores y APIs propios le da autonomía tecnológica a las comunidades porque no dependen de plataformas externas que pueden desaparecer, cambiar sus condiciones o volverse costosas. Con su propio servidor una comunidad puede gestionar sus datos, controlar quién accede a la información y adaptar la tecnología a sus necesidades específicas. Esto también fortalece las capacidades técnicas locales y permite que la comunidad sea protagonista de su propio desarrollo digital en lugar de ser solo consumidora de tecnología ajena.
+
+
