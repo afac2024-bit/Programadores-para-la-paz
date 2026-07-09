@@ -1,0 +1,6 @@
+Una iteración es un ciclo corto de trabajo con duración de 1 a 2 semanas donde el equipo selecciona tareas del backlog, las desarrolla y las entrega funcionando.
+
+Criterios para que una tarea esté terminada:
+- Funciona correctamente en el servidor.
+- Fue probada con al menos un caso de uso.
+- Quedó registrada en Git con su respectivo commit.

@@ -1,0 +1,14 @@
+Historia 1:
+Como ciudadano quiero registrar una incidencia para dejar evidencia del caso.
+
+Historia 2:
+Como coordinador quiero recibir una alerta en Telegram para revisar un nuevo reporte.
+
+Historia 3:
+Como miembro del equipo quiero consultar reportes para hacer seguimiento.
+
+Historia 4:
+Como usuario quiero ver el historial de incidencias para conocer el estado de mi comunidad.
+
+Historia 5):
+Como administrador quiero exportar los reportes para presentarlos a las autoridades.
