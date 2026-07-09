@@ -1,0 +1,5 @@
+La interfaz debe incluir:
+- Formulario para crear una causa.
+- Botón para apoyar una causa.
+- Lista de causas activas disponibles.
+- Vista de causas con número de apoyos.
