@@ -1,0 +1,8 @@
+Evento: nueva causa registrada en la plataforma.
+Acción: enviar mensaje automático al canal de Telegram del equipo coordinador.
+Mensaje: Nueva causa registrada. Revisar la plataforma para hacer seguimiento.
+
+Información que NO se debe enviar por seguridad:
+- Cédulas o documentos de identidad de los ciudadanos.
+- Números de teléfono o direcciones personales.
+- Datos privados o comentarios personales de los usuarios.

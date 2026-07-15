@@ -1,0 +1,3 @@
+¿Qué aprendiste durante el curso sobre el uso de la tecnología para fortalecer la participación ciudadana y la organización comunitaria?
+
+Durante este curso aprendí que la tecnología puede ser una herramienta poderosa para empoderar a las comunidades y facilitar su organización. Desde el control de versiones con Git hasta la creación de servidores con Node.js y Express, cada herramienta aprendida tiene una aplicación real en proyectos comunitarios. La plataforma Petición en 3 Clics es un ejemplo concreto de cómo la programación puede democratizar la participación ciudadana, permitiendo que cualquier persona registre una causa y consiga apoyos de forma digital, organizada y segura.

@@ -1,0 +1,16 @@
+Entidad: Causa
+Campos:
+- id: identificador único de la causa
+- titulo: nombre de la causa comunitaria
+- descripcion: explicación detallada de la causa
+- fecha: fecha de creación
+
+Entidad: Apoyo
+Campos:
+- id: identificador del apoyo
+- causa_id: referencia a la causa apoyada
+- nombre: nombre del ciudadano que apoya
+- fecha: fecha del apoyo
+
+Propósito: Registrar las causas ciudadanas y los apoyos recibidos para generar peticiones formales y dar seguimiento a la participación.
+
